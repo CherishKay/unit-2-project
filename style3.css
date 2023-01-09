@@ -1,0 +1,94 @@
+research.html,
+body{
+  background-image:url(https://r1.ilikewallpaper.net/ipad-pro-wallpapers/download/101146/dark-green-material-design-ipad-pro-wallpaper-ilikewallpaper_com_2048x2048.jpg);
+    font-family: "Courier New"; 
+  font-weight: 900px;
+  
+}
+img{
+  border-radius: 60px;
+  display: block;
+  width:560px;
+  height: 350px;
+  object-fit: fill;
+  margin-bottom: 20px;
+}
+a{
+  background-color: goldenrod;
+  border-radius:20px;
+  color: black;
+  margin-bottom: 20px;
+}
+.image1{
+  border: 6px groove maroon;
+  padding: 30px;
+  margin: 15px;
+background: olive;
+  width:560px;
+  text-align: left;
+  font-weight: bold;
+  position:relative; left:140px; top:2px; 
+  border-radius:60px;
+  
+}
+.image2{
+  border: 6px groove maroon;
+  padding: 30px;
+  margin: 15px;
+background: olive;
+  width:560px;
+  text-align: left;
+  font-weight: bold; 
+  border-radius:60px;
+}
+.image3{
+  border: 6px groove maroon;
+  padding: 30px;
+  margin: 15px;
+background: olive;
+  width:560px;
+  text-align: left;
+  font-weight: bold;
+  position:relative; left:140px; top:2px; 
+  border-radius:60px;
+}
+.image4{
+  border: 6px groove maroon;
+  padding: 30px;
+  margin: 15px;
+background: olive;
+  width:560px;
+  text-align: left;
+  font-weight: bold; 
+  border-radius:60px;
+}
+.image5{
+ border: 6px groove maroon;
+  padding: 30px;
+  margin: 15px;
+background: olive;
+  width:560px;
+  text-align: left;
+  font-weight: bold;
+  position:relative; left:140px; top:2px; 
+  border-radius:60px; 
+}
+.image6{
+   border: 6px groove maroon;
+  padding: 30px;
+  margin: 15px;
+background: olive;
+  width:560px;
+  text-align: left;
+  font-weight: bold; 
+  border-radius:60px;
+}
+h1{
+  text-align: center;
+  text-decoration-line: overline underline;
+    text-decoration-color: maroon;
+}
+p{
+  font-weight: bold;
+  text-align: center;
+}

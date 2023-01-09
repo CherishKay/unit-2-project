@@ -1,0 +1,85 @@
+about.html,
+h1{
+  font-family: 'Courier New';
+  padding: 128px 14px;
+    text-align: center;
+    text-decoration-line: overline underline;
+    text-decoration-color: maroon;
+    text-shadow: 9px 6px 7px black;
+  border: 6px groove maroon;
+  background-color: olive;
+}
+.h2{
+  border: 6px groove maroon;
+  padding: 30px;
+  margin: 15px;
+   display: flex;
+  justify-content: center;
+background: olive;
+  width:400px;
+  text-align: left;
+  
+  font-weight: bold;
+  position:relative; left:140px; top:2px; 
+}
+.h3 {
+  border: 6px groove maroon;
+  padding: 30px;
+  margin: 15px;
+   display: flex;
+  justify-content: center;
+background: olive;
+  width:400px;
+  position:relative; right:10px; top:2px; 
+  
+  font-weight: bold;
+  
+}
+.h4{
+  
+   display: flex;
+  justify-content: center;
+
+  width:400px;
+  position:relative; right:10px; top:2px; 
+  
+  font-weight: bold;
+  
+}
+img{
+  width: 400px;
+  display: flex;
+  justify-content: space-around;
+  height: 250px;
+  border-radius: 20px;
+  
+  
+}
+button-3 {
+  background-color: olive;
+    color: black;
+    padding: 12px 12px;
+    border: 6px groove maroon;
+  border-radius: 12px;
+  height: 12x;
+}
+button-4{
+  background-color: olive;
+    color: black;
+    padding: 12px 12px;
+    border: 6px groove maroon;
+  border-radius: 12px;
+  height: 12x;
+  
+}
+body {
+
+  background-image: url(https://r1.ilikewallpaper.net/ipad-pro-wallpapers/download/101146/dark-green-material-design-ipad-pro-wallpaper-ilikewallpaper_com_2048x2048.jpg);
+    font-family: "Courier New";
+  color: black;
+  border: 6px groove maroon;
+  padding: 30px;
+  margin: 15px;
+ 
+  font-weight: bold;
+}
